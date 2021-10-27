@@ -8,3 +8,12 @@ For this exercise, we have decided to open a surf and ice cream shop in Hawaii a
 
 Below are the temperature data for June and December.
 
+![](https://github.com/Stkaran/surfs_up/blob/main/june_temps.png)
+![](https://github.com/Stkaran/surfs_up/blob/main/december_temps.png)
+
+As we can see from the data there are three major diffences between the two months.
+    
+   * First, the mean temperature and three degrees higher in June compared to December.
+   * Second, the lowest minimum temperature is eight degrees lower in December when compared to June.
+   * And lastly, the higher standard deviation figure in December shows the month's temperatures have a 
+     higher degree of varibility than June's.
