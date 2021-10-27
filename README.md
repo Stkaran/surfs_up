@@ -17,3 +17,9 @@ As we can see from the data there are three major diffences between the two mont
    * Second, the lowest minimum temperature is eight degrees lower in December when compared to June.
    * And lastly, the higher standard deviation figure in December shows the month's temperatures have a 
      higher degree of varibility than June's.
+
+## Summary
+
+Although there are a few differences between the two months, June and December are close enough in temperature that either could be considered viable for surfing and ice cream weather. If we wanted to go deeper, the next logical step would be to compare the amount of percipitation between the two. If there is increased rainfall, chances if urban runoff contaminating the seawater is higher, so surfers way stay away if it is raining a lot. 
+
+Looking further down the line, if this store is a success, there may be interest in opening other locations on the surrounding islands. Our data would help here as we have data for a total of nine different weather stations. All we would need to do is pull that locations data and compare it to the data that we've gathered here.
